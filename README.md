@@ -1,4 +1,4 @@
-# Servidor-EduCat-Versi-inicial
+# Servidor-EduCat-Versio-inicial
 La vesió inicial del servidor EduCat pel projecte de Treball De Recerca.
 
 Servidor backend per a l’aplicació educativa EduCat, desenvolupat com a part del Treball de Recerca (TDR).
